@@ -16,6 +16,8 @@ Our goal in this chapter is to guide you through these distinct aspects, showing
 
 Given the comprehensive content, we've organized this chapter to both address the unique demands of AI development and highlight the practical application of Azure’s capabilities, aiming to provide a thorough yet accessible guide to navigating the complexities involved.
 
+Consider checking out our [Mastering Secure and Responsible AI Solutions on Azure](https://github.com/Azure/Security-and-Responsible-AI-Guide) guide, which covers security and responsible AI practices in detail.
+
 ![Crafting the Vessel: Design and Development](./../media/chapter5.jpg)
 
 AI-driven projects, although a subset of software projects, diverge significantly in their approach. They are characterized by a data-centric nature, iterative model development and training, and an emphasis on continuous learning and adaptation. To better understand these differences, let's begin with a comparative table that highlights the key contrasts between AI-driven and traditional software development:
