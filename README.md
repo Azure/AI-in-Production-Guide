@@ -2,7 +2,7 @@
 
 Welcome to "AI Lifecycle Mastery: From Concept to Reality – Navigating Successful AI Deployments," a comprehensive guide designed to be a central resource for professionals venturing into the world of artificial intelligence with Azure. This guide is not just a brief overview but an extensive, carefully curated collection of chapters, each offering deep insights into a specific aspect of AI project development and deployment using Azure.
 
-**Who This Guide is For:**
+**Who This Guide is For?**
 
 This guide is crafted for a diverse range of professionals, including:
 
