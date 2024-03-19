@@ -12,6 +12,8 @@ layout: default
 
 Networking and security are two critical aspects that need to be addressed early in the design and development of AI solutions to ensure their smooth functioning. By adopting networking and security in their Azure AI solutions, readers can ensure that their applications are secure, reliable, and trustworthy. This chapter offers readers the guidance to create and manage secure AI applications that align with their organization's values and well-established cybersecurity practices.
 
+Consider checking out our [Mastering Secure and Responsible AI Solutions on Azure](https://github.com/Azure/Security-and-Responsible-AI-Guide) guide, which covers security and responsible AI practices in detail.
+
 ![Securing the Cargo: Networking and Security](./../media/chapter8.jpg)
 
 ## Unique Challenges in AI Projects
